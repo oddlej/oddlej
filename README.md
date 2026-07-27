@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oddlej
 
-- I'm learning Assembly for Arm64, working with a Khadas Vim 3 and some Raspberry Pi 5's. Other things I'd like to target are Lora, Socks proxies, and old encryption methods like XOR and such. I'm also putting some time into C++, and need a folder to put my HTML, PHP, Javascript, CSS code etc. Also I'd like to experiment with some music sample and libraries on here. This is where I'll put my repos. Cheers.
+- I'm learning Assembly for Arm64, working with a Khadas Vim 3 and some Raspberry Pi 5's. Other things I'd like to target are Lora, Socks proxies, PHP, and old encryption methods. I'm also putting some time into C++, and need a folder to put my HTML, PHP, Javascript, CSS code etc. Also I'd like to experiment with some music sample and libraries on here. This is where I'll put my repos. Cheers.
 - 
 <!---
 oddlej/oddlej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
